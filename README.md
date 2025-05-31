@@ -62,9 +62,7 @@
 
 <h3 align="left">🔥 My Stats</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddh94&show_icons=true&theme=tokyonight" alt="Siddh's GitHub stats" />
-</p>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddh94&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
