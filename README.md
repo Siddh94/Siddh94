@@ -23,7 +23,7 @@
 
 <p align="left">
   🎓 I'm a final-year Computer Science Engineering student at Chandigarh University, Mohali.<br>
-  🔭 I’m currently working as a Full Stack Java Developer Intern at AiVariant.<br>
+  🔭 I’m actively seeking a Full-Time Software Engineering Role or Software Development Internship.<br>
   📚 I'm currently learning advanced full-stack architecture and scalable backend design.<br>
   ⚡ In my free time I solve problems on LeetCode (130+ solved!) and build cool tech projects.<br>
 </p>
