@@ -66,7 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=siddhyadav7464&show_icons=true&theme=tokyonight" alt="Siddh's GitHub stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhyadav7464&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddh94&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ###
